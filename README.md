@@ -8,12 +8,12 @@ For example, the square matrix <i>arr</i> is shown below:
 9 8 9
 ```
 The left-to-right diagonal = 1 + 5 + 9 = 15. The right to left diagonal = 3 + 5 + 9 = 17. Their absolute difference is |15 - 17| = 2.
-###Function description
+### Function description
 
 Complete the <i>diagonalDifference</i> function in the editor below.
 
 diagonalDifference takes the following parameter:
 
  - int arr[n][m]: an array of integers
-###Return
+### Return
  - int: the absolute diagonal difference
